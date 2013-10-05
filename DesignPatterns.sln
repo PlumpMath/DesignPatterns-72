@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{01A0D654-7415-4EC9-BD8A-B8060C5687FA}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{14DF94B1-5097-49CB-9D36-6EA7262BCC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A0D654-7415-4EC9-BD8A-B8060C5687FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A0D654-7415-4EC9-BD8A-B8060C5687FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A0D654-7415-4EC9-BD8A-B8060C5687FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A0D654-7415-4EC9-BD8A-B8060C5687FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DF94B1-5097-49CB-9D36-6EA7262BCC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DF94B1-5097-49CB-9D36-6EA7262BCC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DF94B1-5097-49CB-9D36-6EA7262BCC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DF94B1-5097-49CB-9D36-6EA7262BCC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
